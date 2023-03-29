@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "typeOrm",
   "homepage": "",
-  "files": [
-    "app",
-    "pg",
-    "all"
-  ],
   "main": "index.js",
   "keywords": [
     "",
